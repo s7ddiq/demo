@@ -1,4 +1,4 @@
 # demo
 A demo repo
 <br>
-Author : Siddiq
+Author : Siddiq / Azmath
